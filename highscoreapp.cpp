@@ -46,7 +46,7 @@ int main()
         int highscore;
         char yes_no;
         string username;
-		string address;
+		float menaa_ido;
 
     //execute the program for the first time
     do
